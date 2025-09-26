@@ -21,7 +21,7 @@ repository               : "https://github.com/mjfield2/michaelfield.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_headshot.jpg"
   name             : "Michael Field"
   pronouns         : "he / him"  
   bio              : "PhD student at the University of Florida"
